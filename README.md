@@ -1,5 +1,5 @@
-![project image](https://github.com/abhisheky98/MovieHub/blob/master/snip1.png)
-![project image](https://github.com/abhisheky98/MovieHub/blob/master/snip2.png)
+![project image](https://github.com/abhisheky98/Movie-Hub/blob/master/snip1.png)
+![project image](https://github.com/abhisheky98/Movie-Hub/blob/master/snip2.png)
 
 ## Table of Contents
 
